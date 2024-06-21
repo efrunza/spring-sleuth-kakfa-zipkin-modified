@@ -12,7 +12,7 @@ When the event it is consumed it triggers additional requests to the rest of the
 
 ## Online article
 Details about this project can be read in my blog's article from here: 
-[ideliverSoft.com Article](https://www.ideliversoft.com/post/distributed-tracing-using-spring-cloud-sleuth-zipkin-and-kafka)
+[Article](https://www.ideliversoft.com/post/distributed-tracing-using-spring-cloud-sleuth-zipkin-and-kafka)
 
 ## Context
 I have done this work while performing reasearch to support the work of building a new microservices platform at HP in 2021 to 2022. The main technologies used were: **Java**, **Confluent Kafka**, **Spring Cloud Contract Testing** / **PACT** and **AWS**.
